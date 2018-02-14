@@ -174,7 +174,7 @@ body{
 
 .box-diagonal-3 {
     min-height: 300px;
-    background: #293570;
+    background: #482a55;
     position: relative;
 }
 
@@ -183,7 +183,7 @@ body{
     position: absolute;
     top: 0; right: 0;
     border-top: 80px solid white;
-    border-left: 80px solid #293570;
+    border-left: 80px solid #482a55;
     width: 0;
 }
 
@@ -191,7 +191,7 @@ body{
 
 .box-diagonal-4 {
     min-height: 300px;
-    background: #293570;
+    background: #433a78;
     position: relative;
 }
 
@@ -200,6 +200,6 @@ body{
     position: absolute;
     top: 0; right: 0;
     border-top: 80px solid white;
-    border-left: 80px solid #293570;
+    border-left: 80px solid #433a78;
     width: 0;
 }
